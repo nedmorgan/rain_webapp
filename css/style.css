@@ -7,7 +7,7 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -80%);
+  transform: translate(-50%, -70%);
 }
 
 img {
@@ -26,6 +26,11 @@ input {
   height: 30px;
   font-family: "Encode Sans Condensed", sans-serif;
   font-size: 90%;
+  margin-bottom: 15px;
+}
+
+.zip-input {
+  margin-right: 4px;
 }
 
 input:focus {
